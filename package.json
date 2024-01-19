@@ -1,0 +1,19 @@
+{
+  "name": "i18n-excel-modify",
+  "version": "1.0.5",
+  "description": "A tool to modify Excel files",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bin": {
+    "i18n-excel-modify": "main.js"
+  },
+  "dependencies": {
+    "xlsx": "^0.18.5"
+  }
+}
